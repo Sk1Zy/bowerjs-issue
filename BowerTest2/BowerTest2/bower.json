@@ -1,0 +1,41 @@
+{
+  "name": "Simuilation.Api",
+  "version": "0.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16",
+    "angular-ui-router": "~0.2.10",
+    "lodash": "~2.4.1",
+    "angular-loading-bar": "~0.4.2",
+    "angular-cookies": "~1.2.16",
+    "multilevelpushmenu": "~2.1.4",
+    "bootstrap": "~3.1.1",
+    "respond": "~1.4.2",
+    "modernizr": "~2.8.2",
+    "angular-typeahead": "~0.1.4",
+    "handlebars": "~1.3.0",
+    "ng-match": "~0.0.3",
+    "angular-sanitize": "~1.2.16",
+    "angular-animate": "~1.2.16",
+    "angular-motion": "~0.3.2",
+    "textAngular": "~1.2.1",
+    "angular-ui-bootstrap-bower": "~0.11.0",
+    "ng-sortable": "*",
+    "bootstrap-vertical-tabs": "~1.1.0",
+    "angular-breadcrumb": "~0.2.2",
+    "awesome-bootstrap-checkbox": "~0.1.2",
+    "imgareaselect": "~0.9.10",
+    "ng-table": "~0.3.3",
+    "angular-growl": "~0.4.0",
+    "ng-tags-input": "~2.0.1"
+  },
+  "resolutions": {
+    "bootstrap": "~3.1.1"
+  }
+}
